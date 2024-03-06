@@ -1,0 +1,45 @@
+@font-face {
+    font-family:"kaushan" ;
+    src: url(fonts/Kaushan_Script/KaushanScript-Regular.ttf);
+}
+
+
+
+
+body{background-color: rgb(199, 32, 52);}
+div{
+    width: 900px;
+    height: auto;
+    
+}
+.container{
+    background-color: white;
+    border: 5vh;
+    padding: 30px;
+}
+h2{
+    background-color:black;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    word-spacing: 20px;}
+h1{
+background-color: white;
+    text-align: center;
+    text-transform: uppercase;
+    word-spacing: 20px;
+    font-family: "kaushan";
+    
+}
+p{background-color: white;
+    color: black;
+    text-align:center;
+    text-transform:lowercase ;
+    font-family: "kaushan";
+    text-align: left;
+
+}
+
+    
+
+    
